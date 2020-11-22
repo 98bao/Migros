@@ -9,7 +9,7 @@ In order to improve the prediction accuracy, techniques from the class and lab o
 
 ## Results
 
-* 1. Submission: 0.806
+* Submission 1: 0.806
 
 ## Solution
 
