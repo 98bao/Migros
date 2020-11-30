@@ -21,10 +21,10 @@ Will be added later
 
 ## TODO list Thursday 3.11
 
-#### Abi
+### Abi
 1) Data cleaning: remove @Tagged, replace "%20" by space, remove http://%, check for weird stuff, delete words of 2 or less characters <br />
 
-##### Nico  <br />
+### Nico  <br />
 2) Data exploratary features: top keywords, plots of dataframe for target = [1,0], check for duplicates
 
 ### Bryan <br />
