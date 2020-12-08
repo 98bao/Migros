@@ -11,6 +11,7 @@ In order to improve the prediction accuracy, techniques from the class and lab o
 
 * Submission 1: 0.806 --> Rank 8
 * Submission 15: 0.811 --> Rank 14
+* Submission 18: 0.819 --> Rank 6
 
 ## Solution
 
