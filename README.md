@@ -8,10 +8,19 @@ The model will be trained with the dataset of classified tweets provided by the 
 In order to improve the prediction accuracy, techniques from the class and lab of the course Data Mining and Machine Learning held by professor Michalis Vlachos will be used. 
 
 ## Results
+For each week the best ranking with the according accuracy is listed below:
 
-* Submission 1: 0.806 --> Rank 8
-* Submission 15: 0.811 --> Rank 14
-* Submission 18: 0.819 --> Rank 6
+* Week 1:
+** Submission 1: 0.806  (Rank 8)
+
+* Week 2:
+** Submission X: 0.806 (Rank 16)
+
+* Week 3:
+** Submission 15: 0.811 (Rank 14)
+
+* Week 4:
+** Submission 18: 0.819  (Rank 6)
 
 ## Solution
 
