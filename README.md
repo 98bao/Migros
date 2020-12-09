@@ -10,33 +10,33 @@ In order to improve the prediction accuracy, techniques from the class and lab o
 ## Results
 For each week the best ranking with the according accuracy is listed below:
 
-* Week 1:
-** Submission 1: 0.806  (Rank 8)
+# * Week 1\
+    Rank 8: 0.805  (Submission 1)
 
-* Week 2:
-** Submission X: 0.806 (Rank 16)
+# * Week 2\ 
+    Rank 16: 0.806 (Submission XX)
 
-* Week 3:
-** Submission 15: 0.811 (Rank 14)
+# * Week 3\
+    Rank 14: 0.811 (Submission 15)
 
-* Week 4:
-** Submission 18: 0.819  (Rank 6)
+# * Week 4\
+    Rank 6: 0.819 (Submission 18)
 
 ## Solution
 
 Will be added later
+The final solution which lead to the best accuracy achieved so far,.....
+
+A more detailed description of the solution finding and the process of the team's work is described in the file Report. 
 
 ## Video 
 
 Will be added later
 
-## TODO list Thursday 3.11
-### Nico 
-1) Data exploratary features: top keywords, plots of dataframe for target = [1,0], check for duplicates, null values
+## TODO list Thursday 9.12:
 
-### Abi
-2) Data cleaning: remove @Tagged, replace "%20" by space, remove http://%, check for weird stuff, delete words of 2 or less characters. Replace null values by something
-
-### Bryan
-3) Test other regression, use keyword column
+* cleaning code
+* video
+* read me 
+* report
 
