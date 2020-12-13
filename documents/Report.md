@@ -4,7 +4,7 @@
 
 ## Team Migros - Real or Not? NLP with Disaster Tweets
 
-In this project we analyzed a dataset of tweets to know if a tweet is about a real disaster (target = 1) or not (target = 0). To do so we builded a machine learning model and trained it with the dataset provided by the university. This report willbe a summary of the course of action we did and how we achieved our best accuracy in the leaderboard.
+In this project we analyzed a dataset of tweets to know if a tweet is about a real disaster (target = 1) or not (target = 0). To do so we builded a machine learning model and trained it with the dataset provided by the university. This report will be a summary of the course of action we did and how we achieved our best accuracy in the leaderboard.
 
 # First Iteration
 In this first iteration we just fit the training data in the Logistic regression and observe the accuracy.
@@ -32,4 +32,4 @@ Since our accuracy did not improve in the first iteration, we decided on the fol
 
   7) In order to make a good comparison between different model, we realized that was usefull verify every model using cross-validation. We campared four different models and we found out that LogisticRegression was the most accurate for our analysis.
   
-  8) 
+  8) As a final step, to improve our model even more, we try to include the keywords into our model. Here we created a new column including the the keyword and text column. Thelogistic regression with cross validation resulted in even better accuray than just using the text column.
