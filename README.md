@@ -10,33 +10,34 @@ In order to improve the prediction accuracy, techniques from the class and lab o
 ## Results
 For each week the best ranking with the according accuracy is listed below:
 
-# * Week 1\
+* Week 1
+    
     Rank 8: 0.805  (Submission 1)
 
-# * Week 2\ 
-    Rank 16: 0.806 (Submission XX)
+* Week 2 
+    
+    Rank 16: 0.806 (Submission 3)
 
-# * Week 3\
+* Week 3
+    
     Rank 14: 0.811 (Submission 15)
 
-# * Week 4\
+* Week 4
+    
     Rank 6: 0.819 (Submission 18)
+    
+* Final ranking
+    
+    Rank 9: 0.819 (Submission 22)
 
 ## Solution
 
-Will be added later
-The final solution which lead to the best accuracy achieved so far,.....
+The final solution which lead to the best accuracy so far, could be achieved, by training the model with a cleaned dataset (removing the URL, taggs and some noices), optimzing the TF-IDF vector and running a logistic regression with GridSearchSV.
 
-A more detailed description of the solution finding and the process of the team's work is described in the file Report. 
+A more detailed description of the solution finding and the process of the team's work is described in the file Report in the folder documents. 
 
 ## Video 
 
 Will be added later
 
-## TODO list Thursday 9.12:
-
-* cleaning code
-* video
-* read me 
-* report
 
