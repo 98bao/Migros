@@ -1,13 +1,13 @@
 # Data Mining and Machine Learning - Université de Lausanne
 ## Group Migros - Real or Not? NLP with Disaster Tweets
 
-## Project Description
+## Project Description 📝
 
 This project aims to buils a machine learning model that can predict which tweets are about a real disaster and which ones are not. 
 The model will be trained with the dataset of classified tweets provided by the university. The topic is based around a Kaggle competion. 
 In order to improve the prediction accuracy, techniques from the class and lab of the course Data Mining and Machine Learning held by professor Michalis Vlachos will be used. 
 
-## Results
+## Results 🏆
 For each week the best ranking with the according accuracy is listed below:
 
 * Week 1
@@ -30,13 +30,13 @@ For each week the best ranking with the according accuracy is listed below:
     
     Rank 9: 0.819 (Submission 22)
 
-## Solution
+## Solution 💡
 
-The final solution which lead to the best accuracy so far, could be achieved, by training the model with a cleaned dataset (removing the URL, taggs and some noices), optimzing the TF-IDF vector and running a logistic regression with GridSearchSV.
+The final solution which lead to the best accuracy so far, could be achieved, by training the model with a cleaned dataset (removing the URL, taggs and some noises), optimzing the TF-IDF vector and running a logistic regression with GridSearchSV.
 
 A more detailed description of the solution finding and the process of the team's work is described in the file Report in the folder documents. 
 
-## Video 
+## Video 📽️
 
 Will be added later
 
