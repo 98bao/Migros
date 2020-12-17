@@ -38,6 +38,6 @@ A more detailed description of the solution finding and the process of the team'
 
 ## Video 📽️
 
-Will be added later
+This [![Link](https://www.youtube.com/watch?v=ZHr3-mQPZKI)](https://www.youtube.com/watch?v=ZHr3-mQPZKI "Final Project DM&ML: Group Migros") will forward you to a video of our presentation. 
 
 
