@@ -19,7 +19,7 @@ In this first iteration we just fit the training data in the Logistic regression
 #### Second Iteration
 Since our accuracy did not improve in the first iteration, we decided on the follwing steps.
 
- 4) First we cleaned the text by removing unnecessary elements such as retweets and tags from the data sets. Further we removed all the noices we could find, such as url adresses, punctuation, numbers, stopwords and other special characters. We then built a model applying a logistic regression with cross validation, which gave a pretty good accuracy on the train data. However the accuracy on AICrowd get lower: **0.797**
+ 4) First we cleaned the text by removing unnecessary elements such as retweets and tags from the data sets. Further we removed all the noises we could find, such as url adresses, punctuation, numbers, stopwords and other special characters. We then built a model applying a logistic regression with cross validation, which gave a pretty good accuracy on the train data. However the accuracy on AICrowd get lower: **0.797**
  
  5) Secondly we tried to use different classifier to see if there is a change in accuracy with the cleaned data set. We tried again the Randon Forest Classifier and kkn model. However, our accuracy did not change and we realised that the problem might not be with the classifier. We even tried to use a different verctorizer to see if that might improve the accuracy on the cleaned data set. Using Doc2Vec instead of TF-IDF again gave a good accuracy on the train data set, but on AICrowd our accuracy and rank kept sinking. 
  
